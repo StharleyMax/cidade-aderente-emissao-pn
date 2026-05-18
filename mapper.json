@@ -31,7 +31,7 @@
     "city_name_original": "ACREUNA",
     "state_uf": "GO",
     "is_adn_adherent": true,
-    "is_national_emitter": true,
+    "is_national_emitter": false,
     "status": "ACTIVE",
     "start_date": "2025-12-29"
   },
@@ -58,7 +58,7 @@
     "city_name_original": "AGUA LIMPA",
     "state_uf": "GO",
     "is_adn_adherent": true,
-    "is_national_emitter": true,
+    "is_national_emitter": false,
     "status": "ACTIVE",
     "start_date": "2026-01-01"
   },
@@ -481,7 +481,7 @@
     "city_name_original": "CAMPO ALEGRE DE GOIAS",
     "state_uf": "GO",
     "is_adn_adherent": true,
-    "is_national_emitter": true,
+    "is_national_emitter": false,
     "status": "ACTIVE",
     "start_date": "2025-08-12"
   },
@@ -706,7 +706,7 @@
     "city_name_original": "DAVINOPOLIS",
     "state_uf": "GO",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2026-12-01"
   },
@@ -733,7 +733,7 @@
     "city_name_original": "DOVERLANDIA",
     "state_uf": "GO",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-12-22"
   },
@@ -1417,7 +1417,7 @@
     "city_name_original": "NEROPOLIS",
     "state_uf": "GO",
     "is_adn_adherent": true,
-    "is_national_emitter": true,
+    "is_national_emitter": false,
     "status": "ACTIVE",
     "start_date": "2025-10-12"
   },
@@ -1696,7 +1696,7 @@
     "city_name_original": "PONTALINA",
     "state_uf": "GO",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-12-17"
   },
@@ -3127,7 +3127,7 @@
     "city_name_original": "CAMPINAPOLIS",
     "state_uf": "MT",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-09-12"
   },
@@ -3262,7 +3262,7 @@
     "city_name_original": "CONQUISTA D'OESTE",
     "state_uf": "MT",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2023-08-17"
   },
@@ -3325,7 +3325,7 @@
     "city_name_original": "FELIZ NATAL",
     "state_uf": "MT",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-11-12"
   },
@@ -3441,10 +3441,10 @@
     "city_name": "JANGADA",
     "city_name_original": "JANGADA",
     "state_uf": "MT",
-    "is_adn_adherent": false,
+    "is_adn_adherent": true,
     "is_national_emitter": false,
-    "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "status": "ACTIVE",
+    "start_date": "2026-04-13"
   },
   {
     "city_name": "JAURU",
@@ -3505,7 +3505,7 @@
     "city_name_original": "LUCAS DO RIO VERDE",
     "state_uf": "MT",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2023-05-10"
   },
@@ -4099,7 +4099,7 @@
     "city_name_original": "SORRISO",
     "state_uf": "MT",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2023-11-23"
   },
@@ -4389,7 +4389,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "COITE DO NOIA",
@@ -4568,8 +4568,8 @@
     "state_uf": "AL",
     "is_adn_adherent": false,
     "is_national_emitter": false,
-    "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "status": "PARAMETERIZED",
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "JEQUIA DA PRAIA",
@@ -4713,7 +4713,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "MINADOR DO NEGRAO",
@@ -4981,7 +4981,7 @@
     "city_name_original": "SANTANA DO IPANEMA",
     "state_uf": "AL",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-11-20"
   },
@@ -5233,7 +5233,7 @@
     "city_name_original": "AMERICA DOURADA",
     "state_uf": "BA",
     "is_adn_adherent": true,
-    "is_national_emitter": true,
+    "is_national_emitter": false,
     "status": "ACTIVE",
     "start_date": "2025-12-29"
   },
@@ -5316,7 +5316,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "APUAREMA",
@@ -5350,7 +5350,7 @@
     "city_name_original": "ARACI",
     "state_uf": "BA",
     "is_adn_adherent": true,
-    "is_national_emitter": true,
+    "is_national_emitter": false,
     "status": "ACTIVE",
     "start_date": "2025-12-19"
   },
@@ -5575,7 +5575,7 @@
     "city_name_original": "BONITO",
     "state_uf": "BA",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-12-18"
   },
@@ -6538,7 +6538,7 @@
     "city_name_original": "IBITIARA",
     "state_uf": "BA",
     "is_adn_adherent": true,
-    "is_national_emitter": true,
+    "is_national_emitter": false,
     "status": "ACTIVE",
     "start_date": "2026-01-01"
   },
@@ -6567,7 +6567,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "IGAPORA",
@@ -7026,7 +7026,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "JANDAIRA",
@@ -7204,7 +7204,7 @@
     "city_name_original": "LAURO DE FREITAS",
     "state_uf": "BA",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-11-18"
   },
@@ -7224,7 +7224,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "LIVRAMENTO DE NOSSA SENHORA",
@@ -7413,7 +7413,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "MEDEIROS NETO",
@@ -8392,7 +8392,7 @@
     "city_name_original": "SAO SEBASTIAO DO PASSE",
     "state_uf": "BA",
     "is_adn_adherent": true,
-    "is_national_emitter": true,
+    "is_national_emitter": false,
     "status": "ACTIVE",
     "start_date": "2026-12-01"
   },
@@ -8601,7 +8601,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "TAPIRAMUTA",
@@ -9699,7 +9699,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "JAGUARETAMA",
@@ -10371,10 +10371,10 @@
     "city_name": "SENADOR SA",
     "city_name_original": "SENADOR SÁ",
     "state_uf": "CE",
-    "is_adn_adherent": false,
-    "is_national_emitter": false,
-    "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "is_adn_adherent": true,
+    "is_national_emitter": true,
+    "status": "ACTIVE",
+    "start_date": "2026-11-05"
   },
   {
     "city_name": "SOBRAL",
@@ -10563,7 +10563,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "ALCANTARA",
@@ -10630,7 +10630,7 @@
   },
   {
     "city_name": "AMARANTE DO MARANHAO",
-    "city_name_original": "AMARANTE DO MARANHÃO",
+    "city_name_original": "AMARANTE DO MARANHAO",
     "state_uf": "MA",
     "is_adn_adherent": true,
     "is_national_emitter": false,
@@ -10714,7 +10714,7 @@
     "city_name_original": "BACABAL",
     "state_uf": "MA",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2026-01-01"
   },
@@ -10783,7 +10783,7 @@
   },
   {
     "city_name": "BELA VISTA DO MARANHAO",
-    "city_name_original": "BELA VISTA DO MARANHÃO",
+    "city_name_original": "BELA VISTA DO MARANHAO",
     "state_uf": "MA",
     "is_adn_adherent": true,
     "is_national_emitter": false,
@@ -10824,7 +10824,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "BOA VISTA DO GURUPI",
@@ -10945,7 +10945,7 @@
   },
   {
     "city_name": "CAMPESTRE DO MARANHAO",
-    "city_name_original": "CAMPESTRE DO MARANHÃO",
+    "city_name_original": "CAMPESTRE DO MARANHAO",
     "state_uf": "MA",
     "is_adn_adherent": true,
     "is_national_emitter": false,
@@ -11094,7 +11094,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "COROATA",
@@ -11184,7 +11184,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "FORTALEZA DOS NOGUEIRAS",
@@ -11238,7 +11238,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "GOVERNADOR EUGENIO BARROS",
@@ -11319,7 +11319,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "IGARAPE DO MEIO",
@@ -11391,7 +11391,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "JOAO LISBOA",
@@ -11418,7 +11418,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "LAGO DA PEDRA",
@@ -11436,7 +11436,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "LAGO DOS RODRIGUES",
@@ -11454,7 +11454,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "LAGOA DO MATO",
@@ -11481,7 +11481,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "LIMA CAMPOS",
@@ -11589,7 +11589,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "MIRADOR",
@@ -11697,7 +11697,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "PACO DO LUMIAR",
@@ -11712,10 +11712,10 @@
     "city_name": "PALMEIRANDIA",
     "city_name_original": "PALMEIRÂNDIA",
     "state_uf": "MA",
-    "is_adn_adherent": false,
-    "is_national_emitter": false,
-    "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "is_adn_adherent": true,
+    "is_national_emitter": true,
+    "status": "ACTIVE",
+    "start_date": "2026-11-05"
   },
   {
     "city_name": "PARAIBANO",
@@ -11841,7 +11841,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "PIRAPEMAS",
@@ -11850,7 +11850,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "POCAO DE PEDRAS",
@@ -11859,7 +11859,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "PORTO FRANCO",
@@ -11958,16 +11958,16 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "ROSARIO",
-    "city_name_original": "ROSÁRIO",
+    "city_name_original": "ROSARIO",
     "state_uf": "MA",
-    "is_adn_adherent": false,
-    "is_national_emitter": false,
-    "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "is_adn_adherent": true,
+    "is_national_emitter": true,
+    "status": "ACTIVE",
+    "start_date": "2026-04-13"
   },
   {
     "city_name": "SAMBAIBA",
@@ -11985,7 +11985,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "SANTA HELENA",
@@ -12043,7 +12043,7 @@
   },
   {
     "city_name": "SANTANA DO MARANHAO",
-    "city_name_original": "SANTANA DO MARANHÃO",
+    "city_name_original": "SANTANA DO MARANHAO",
     "state_uf": "MA",
     "is_adn_adherent": true,
     "is_national_emitter": true,
@@ -12088,7 +12088,7 @@
   },
   {
     "city_name": "SAO BERNARDO",
-    "city_name_original": "SÃO BERNARDO",
+    "city_name_original": "SAO BERNARDO",
     "state_uf": "MA",
     "is_adn_adherent": true,
     "is_national_emitter": false,
@@ -12236,8 +12236,8 @@
     "state_uf": "MA",
     "is_adn_adherent": false,
     "is_national_emitter": false,
-    "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "status": "PARAMETERIZED",
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "SAO PEDRO DOS CRENTES",
@@ -12246,7 +12246,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "SAO RAIMUNDO DAS MANGABEIRAS",
@@ -12277,7 +12277,7 @@
   },
   {
     "city_name": "SAO VICENTE FERRER",
-    "city_name_original": "SÃO VICENTE FERRER",
+    "city_name_original": "SAO VICENTE FERRER",
     "state_uf": "MA",
     "is_adn_adherent": true,
     "is_national_emitter": false,
@@ -12291,7 +12291,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "SENADOR ALEXANDRE COSTA",
@@ -12505,7 +12505,7 @@
     "city_name_original": "AGUIAR",
     "state_uf": "PB",
     "is_adn_adherent": true,
-    "is_national_emitter": true,
+    "is_national_emitter": false,
     "status": "ACTIVE",
     "start_date": "2026-01-01"
   },
@@ -14017,7 +14017,7 @@
     "city_name_original": "SANTA LUZIA",
     "state_uf": "PB",
     "is_adn_adherent": true,
-    "is_national_emitter": true,
+    "is_national_emitter": false,
     "status": "ACTIVE",
     "start_date": "2025-11-23"
   },
@@ -14655,10 +14655,10 @@
     "city_name": "BELEM DO SAO FRANCISCO",
     "city_name_original": "BELÉM DO SÃO FRANCISCO",
     "state_uf": "PE",
-    "is_adn_adherent": false,
-    "is_national_emitter": false,
-    "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "is_adn_adherent": true,
+    "is_national_emitter": true,
+    "status": "ACTIVE",
+    "start_date": "2026-11-05"
   },
   {
     "city_name": "BELO JARDIM",
@@ -14932,7 +14932,7 @@
   },
   {
     "city_name": "CHA DE ALEGRIA",
-    "city_name_original": "CHÃ DE ALEGRIA",
+    "city_name_original": "CHA DE ALEGRIA",
     "state_uf": "PE",
     "is_adn_adherent": true,
     "is_national_emitter": false,
@@ -15044,8 +15044,8 @@
     "state_uf": "PE",
     "is_adn_adherent": false,
     "is_national_emitter": false,
-    "status": "UNDEFINED",
-    "start_date": null
+    "status": "REGISTERED",
+    "start_date": "2026-04-27"
   },
   {
     "city_name": "FERREIROS",
@@ -15771,10 +15771,10 @@
     "city_name": "SANTA CRUZ",
     "city_name_original": "SANTA CRUZ",
     "state_uf": "PE",
-    "is_adn_adherent": false,
+    "is_adn_adherent": true,
     "is_national_emitter": false,
-    "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "status": "ACTIVE",
+    "start_date": "2026-11-05"
   },
   {
     "city_name": "SANTA CRUZ DA BAIXA VERDE",
@@ -16192,7 +16192,7 @@
   },
   {
     "city_name": "ALAGOINHA DO PIAUI",
-    "city_name_original": "ALAGOINHA DO PIAUÍ",
+    "city_name_original": "ALAGOINHA DO PIAUI",
     "state_uf": "PI",
     "is_adn_adherent": true,
     "is_national_emitter": false,
@@ -16350,7 +16350,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "BARRO DURO",
@@ -16692,7 +16692,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "COIVARAS",
@@ -16707,10 +16707,10 @@
     "city_name": "COLONIA DO GURGUEIA",
     "city_name_original": "COLÔNIA DO GURGUÉIA",
     "state_uf": "PI",
-    "is_adn_adherent": false,
-    "is_national_emitter": false,
-    "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "is_adn_adherent": true,
+    "is_national_emitter": true,
+    "status": "ACTIVE",
+    "start_date": "2026-11-05"
   },
   {
     "city_name": "COLONIA DO PIAUI",
@@ -16818,7 +16818,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "DOM EXPEDITO LOPES",
@@ -16863,7 +16863,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "ESPERANTINA",
@@ -16998,7 +16998,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "ILHA GRANDE",
@@ -17101,7 +17101,7 @@
   },
   {
     "city_name": "JOAO COSTA",
-    "city_name_original": "JOÃO COSTA",
+    "city_name_original": "JOAO COSTA",
     "state_uf": "PI",
     "is_adn_adherent": true,
     "is_national_emitter": true,
@@ -17200,7 +17200,7 @@
   },
   {
     "city_name": "LAGOA DO SITIO",
-    "city_name_original": "LAGOA DO SÍTIO",
+    "city_name_original": "LAGOA DO SITIO",
     "state_uf": "PI",
     "is_adn_adherent": true,
     "is_national_emitter": true,
@@ -17358,7 +17358,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "MORRO DO CHAPEU DO PIAUI",
@@ -17389,7 +17389,7 @@
   },
   {
     "city_name": "NAZARIA",
-    "city_name_original": "NAZÁRIA",
+    "city_name_original": "NAZARIA",
     "state_uf": "PI",
     "is_adn_adherent": true,
     "is_national_emitter": true,
@@ -17425,7 +17425,7 @@
   },
   {
     "city_name": "NOVO ORIENTE DO PIAUI",
-    "city_name_original": "NOVO ORIENTE DO PIAUÍ",
+    "city_name_original": "NOVO ORIENTE DO PIAUI",
     "state_uf": "PI",
     "is_adn_adherent": true,
     "is_national_emitter": true,
@@ -17475,7 +17475,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "PAJEU DO PIAUI",
@@ -17547,7 +17547,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "PAU D'ARCO DO PIAUI",
@@ -17610,7 +17610,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-11-05"
   },
   {
     "city_name": "PIO IX",
@@ -17821,7 +17821,7 @@
   },
   {
     "city_name": "SAO FELIX DO PIAUI",
-    "city_name_original": "SÃO FÉLIX DO PIAUÍ",
+    "city_name_original": "SAO FELIX DO PIAUI",
     "state_uf": "PI",
     "is_adn_adherent": true,
     "is_national_emitter": false,
@@ -17934,7 +17934,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "SAO JOSE DO PIAUI",
@@ -18175,7 +18175,7 @@
     "city_name_original": "WALL FERRAZ",
     "state_uf": "PI",
     "is_adn_adherent": true,
-    "is_national_emitter": true,
+    "is_national_emitter": false,
     "status": "ACTIVE",
     "start_date": "2026-01-01"
   },
@@ -18967,7 +18967,7 @@
     "city_name_original": "NATAL",
     "state_uf": "RN",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2026-01-01"
   },
@@ -19752,7 +19752,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "CAMPO DO BRITO",
@@ -19878,7 +19878,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "GENERAL MAYNARD",
@@ -19887,7 +19887,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "GRACCHO CARDOSO",
@@ -20004,7 +20004,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "MALHADOR",
@@ -20533,7 +20533,7 @@
     "city_name_original": "SENADOR GUIOMARD",
     "state_uf": "AC",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2026-01-01"
   },
@@ -20631,10 +20631,10 @@
     "city_name": "BARREIRINHA",
     "city_name_original": "BARREIRINHA",
     "state_uf": "AM",
-    "is_adn_adherent": false,
+    "is_adn_adherent": true,
     "is_national_emitter": false,
-    "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "status": "ACTIVE",
+    "start_date": "2026-11-05"
   },
   {
     "city_name": "BENJAMIN CONSTANT",
@@ -20715,7 +20715,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "CAREIRO DA VARZEA",
@@ -20769,7 +20769,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "GUAJARA",
@@ -20865,10 +20865,10 @@
     "city_name": "LABREA",
     "city_name_original": "LÁBREA",
     "state_uf": "AM",
-    "is_adn_adherent": false,
+    "is_adn_adherent": true,
     "is_national_emitter": false,
-    "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "status": "ACTIVE",
+    "start_date": "2026-11-05"
   },
   {
     "city_name": "MANACAPURU",
@@ -20913,7 +20913,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "MAUES",
@@ -20930,8 +20930,8 @@
     "state_uf": "AM",
     "is_adn_adherent": false,
     "is_national_emitter": false,
-    "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "status": "PARAMETERIZED",
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "NOVA OLINDA DO NORTE",
@@ -20940,7 +20940,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "NOVO AIRAO",
@@ -20965,7 +20965,7 @@
     "city_name_original": "PARINTINS",
     "state_uf": "AM",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2026-01-01"
   },
@@ -21120,7 +21120,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "CALCOENE",
@@ -21183,7 +21183,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "OIAPOQUE",
@@ -21286,7 +21286,7 @@
   },
   {
     "city_name": "AFUA",
-    "city_name_original": "AFUÁ",
+    "city_name_original": "AFUA",
     "state_uf": "PA",
     "is_adn_adherent": true,
     "is_national_emitter": false,
@@ -21372,7 +21372,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "AVEIRO",
@@ -21687,7 +21687,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "FLORESTA DO ARAGUAIA",
@@ -21709,12 +21709,12 @@
   },
   {
     "city_name": "GOIANESIA DO PARA",
-    "city_name_original": "GOIANÉSIA DO PARÁ",
+    "city_name_original": "GOIANESIA DO PARA",
     "state_uf": "PA",
-    "is_adn_adherent": false,
-    "is_national_emitter": false,
-    "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "is_adn_adherent": true,
+    "is_national_emitter": true,
+    "status": "ACTIVE",
+    "start_date": "2026-04-13"
   },
   {
     "city_name": "GURUPA",
@@ -21894,7 +21894,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "MOCAJUBA",
@@ -22215,10 +22215,10 @@
     "city_name": "SANTA BARBARA DO PARA",
     "city_name_original": "SANTA BÁRBARA DO PARÁ",
     "state_uf": "PA",
-    "is_adn_adherent": false,
+    "is_adn_adherent": true,
     "is_national_emitter": false,
-    "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "status": "ACTIVE",
+    "start_date": "2026-11-05"
   },
   {
     "city_name": "SANTA CRUZ DO ARARI",
@@ -23359,7 +23359,7 @@
     "city_name_original": "BARROLANDIA",
     "state_uf": "TO",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2026-10-01"
   },
@@ -23584,7 +23584,7 @@
     "city_name_original": "DOIS IRMAOS DO TOCANTINS",
     "state_uf": "TO",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2026-09-01"
   },
@@ -23595,7 +23595,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "ESPERANTINA",
@@ -23863,7 +23863,7 @@
     "city_name_original": "MONTE SANTO DO TOCANTINS",
     "state_uf": "TO",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2026-09-01"
   },
@@ -23928,7 +23928,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "NOVO JARDIM",
@@ -24274,7 +24274,7 @@
   },
   {
     "city_name": "SAO SALVADOR DO TOCANTINS",
-    "city_name_original": "SÃO SALVADOR DO TOCANTINS",
+    "city_name_original": "SAO SALVADOR DO TOCANTINS",
     "state_uf": "TO",
     "is_adn_adherent": true,
     "is_national_emitter": false,
@@ -24286,7 +24286,7 @@
     "city_name_original": "SAO SEBASTIAO DO TOCANTINS",
     "state_uf": "TO",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2026-01-01"
   },
@@ -24324,7 +24324,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "TAGUATINGA",
@@ -24346,12 +24346,12 @@
   },
   {
     "city_name": "TALISMA",
-    "city_name_original": "TALISMÃ",
+    "city_name_original": "TALISMA",
     "state_uf": "TO",
-    "is_adn_adherent": false,
+    "is_adn_adherent": true,
     "is_national_emitter": false,
-    "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "status": "ACTIVE",
+    "start_date": "2026-04-13"
   },
   {
     "city_name": "TOCANTINIA",
@@ -24880,7 +24880,7 @@
     "city_name_original": "NOVA VENECIA",
     "state_uf": "ES",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-12-18"
   },
@@ -25141,7 +25141,7 @@
     "city_name_original": "ACAIACA",
     "state_uf": "MG",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-12-18"
   },
@@ -26006,8 +26006,8 @@
     "state_uf": "MG",
     "is_adn_adherent": false,
     "is_national_emitter": false,
-    "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "status": "PARAMETERIZED",
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "BURITIS",
@@ -26520,7 +26520,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "CARMOPOLIS DE MINAS",
@@ -28437,7 +28437,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "ITAMBACURI",
@@ -28545,7 +28545,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "ITAUNA",
@@ -29002,7 +29002,7 @@
     "city_name_original": "LAMIM",
     "state_uf": "MG",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-12-23"
   },
@@ -29749,7 +29749,7 @@
     "city_name_original": "NEPOMUCENO",
     "state_uf": "MG",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2026-07-01"
   },
@@ -30388,7 +30388,7 @@
     "city_name_original": "PIEDADE DE CARATINGA",
     "state_uf": "MG",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2026-06-04"
   },
@@ -31929,7 +31929,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "SAO SEBASTIAO DO MARANHAO",
@@ -32106,10 +32106,10 @@
     "city_name": "SENHORA DO PORTO",
     "city_name_original": "SENHORA DO PORTO",
     "state_uf": "MG",
-    "is_adn_adherent": false,
+    "is_adn_adherent": true,
     "is_national_emitter": false,
-    "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "status": "ACTIVE",
+    "start_date": "2026-09-04"
   },
   {
     "city_name": "SENHORA DOS REMEDIOS",
@@ -33637,7 +33637,7 @@
     "city_name_original": "AGUAI",
     "state_uf": "SP",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-09-30"
   },
@@ -33796,7 +33796,7 @@
   },
   {
     "city_name": "AMERICO DE CAMPOS",
-    "city_name_original": "AMÉRICO DE CAMPOS",
+    "city_name_original": "AMERICO DE CAMPOS",
     "state_uf": "SP",
     "is_adn_adherent": true,
     "is_national_emitter": false,
@@ -33846,7 +33846,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "ANHUMAS",
@@ -34249,7 +34249,7 @@
     "city_name_original": "BERNARDINO DE CAMPOS",
     "state_uf": "SP",
     "is_adn_adherent": true,
-    "is_national_emitter": true,
+    "is_national_emitter": false,
     "status": "ACTIVE",
     "start_date": "2023-05-09"
   },
@@ -34303,7 +34303,7 @@
     "city_name_original": "BOCAINA",
     "state_uf": "SP",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-12-29"
   },
@@ -35038,7 +35038,7 @@
   },
   {
     "city_name": "DOLCINOPOLIS",
-    "city_name_original": "DOLCINÓPOLIS",
+    "city_name_original": "DOLCINOPOLIS",
     "state_uf": "SP",
     "is_adn_adherent": true,
     "is_national_emitter": false,
@@ -35068,7 +35068,7 @@
     "city_name_original": "DUARTINA",
     "state_uf": "SP",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2026-01-01"
   },
@@ -35245,7 +35245,7 @@
   },
   {
     "city_name": "FERNAO",
-    "city_name_original": "FERNÃO",
+    "city_name_original": "FERNAO",
     "state_uf": "SP",
     "is_adn_adherent": true,
     "is_national_emitter": false,
@@ -35268,7 +35268,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "FLOREAL",
@@ -35626,7 +35626,7 @@
     "city_name_original": "IBATE",
     "state_uf": "SP",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2026-01-19"
   },
@@ -36319,7 +36319,7 @@
     "city_name_original": "LARANJAL PAULISTA",
     "state_uf": "SP",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-12-18"
   },
@@ -36442,7 +36442,7 @@
   },
   {
     "city_name": "LUIZIANIA",
-    "city_name_original": "LUIZIÂNIA",
+    "city_name_original": "LUIZIANIA",
     "state_uf": "SP",
     "is_adn_adherent": true,
     "is_national_emitter": false,
@@ -36537,7 +36537,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "MARACAI",
@@ -37698,7 +37698,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "PORANGABA",
@@ -37878,7 +37878,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "RAFARD",
@@ -37995,7 +37995,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "RIBEIRAO GRANDE",
@@ -38137,7 +38137,7 @@
     "city_name_original": "SABINO",
     "state_uf": "SP",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-12-15"
   },
@@ -39106,7 +39106,7 @@
   },
   {
     "city_name": "TIETE",
-    "city_name_original": "TIETÊ",
+    "city_name_original": "TIETE",
     "state_uf": "SP",
     "is_adn_adherent": true,
     "is_national_emitter": false,
@@ -40002,7 +40002,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "CAPANEMA",
@@ -40648,7 +40648,7 @@
     "city_name_original": "GUARAPUAVA",
     "state_uf": "PR",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-12-15"
   },
@@ -40981,7 +40981,7 @@
     "city_name_original": "JAPIRA",
     "state_uf": "PR",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2026-01-01"
   },
@@ -41197,7 +41197,7 @@
     "city_name_original": "MAMBORE",
     "state_uf": "PR",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-11-13"
   },
@@ -41377,7 +41377,7 @@
     "city_name_original": "MATINHOS",
     "state_uf": "PR",
     "is_adn_adherent": true,
-    "is_national_emitter": true,
+    "is_national_emitter": false,
     "status": "ACTIVE",
     "start_date": "2025-12-15"
   },
@@ -41737,7 +41737,7 @@
     "city_name_original": "PATO BRAGADO",
     "state_uf": "PR",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-12-30"
   },
@@ -41946,7 +41946,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "PORTO RICO",
@@ -42844,7 +42844,7 @@
     "city_name_original": "TOLEDO",
     "state_uf": "PR",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2023-10-20"
   },
@@ -43240,7 +43240,7 @@
     "city_name_original": "ARROIO DOS RATOS",
     "state_uf": "RS",
     "is_adn_adherent": true,
-    "is_national_emitter": true,
+    "is_national_emitter": false,
     "status": "ACTIVE",
     "start_date": "2024-10-21"
   },
@@ -44133,7 +44133,7 @@
     "is_adn_adherent": false,
     "is_national_emitter": false,
     "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "start_date": "2026-05-18"
   },
   {
     "city_name": "CRUZ ALTA",
@@ -45400,7 +45400,7 @@
     "city_name_original": "MUCUM",
     "state_uf": "RS",
     "is_adn_adherent": true,
-    "is_national_emitter": true,
+    "is_national_emitter": false,
     "status": "ACTIVE",
     "start_date": "2026-01-01"
   },
@@ -46119,10 +46119,10 @@
     "city_name": "RIOZINHO",
     "city_name_original": "RIOZINHO",
     "state_uf": "RS",
-    "is_adn_adherent": false,
+    "is_adn_adherent": true,
     "is_national_emitter": false,
-    "status": "REGISTERED",
-    "start_date": "2026-06-04"
+    "status": "ACTIVE",
+    "start_date": "2026-04-27"
   },
   {
     "city_name": "ROCA SALES",
@@ -46957,7 +46957,7 @@
     "city_name_original": "TAPEJARA",
     "state_uf": "RS",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-10-11"
   },
@@ -47290,7 +47290,7 @@
     "city_name_original": "VALE DO SOL",
     "state_uf": "RS",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2024-01-10"
   },
@@ -48064,7 +48064,7 @@
     "city_name_original": "CAXAMBU DO SUL",
     "state_uf": "SC",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-02-09"
   },
@@ -48703,7 +48703,7 @@
     "city_name_original": "JARAGUA DO SUL",
     "state_uf": "SC",
     "is_adn_adherent": true,
-    "is_national_emitter": false,
+    "is_national_emitter": true,
     "status": "ACTIVE",
     "start_date": "2025-10-12"
   },
